@@ -1,5 +1,7 @@
 # plugin-demo
 
+使用 `vue-cli-service` 自定义插件功能注册`watch`命令`demo`
+
 ## Project setup
 ```
 npm install

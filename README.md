@@ -2,6 +2,8 @@
 
 使用 `vue-cli-service` 自定义插件功能注册`watch`命令`demo`
 
+## [插件详细示例](https://juejin.im/post/5c73d879e51d454b4755603f#heading-7)
+
 ## Project setup
 ```
 npm install
